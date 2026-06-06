@@ -10,12 +10,7 @@
     "pageNumber": "02"
   },
   {
-    "title": "عقل سلیم کا تقاضہ",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_03.webp",
-    "pageNumber": "03"
-  },
-  {
-    "title": "قدرت کا انتباہ",
+    "title": "عقل سلیم کا تقاضہ ۔۔۔ قدرت کا انتباہ",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_03.webp",
     "pageNumber": "03"
   },
@@ -31,22 +26,22 @@
   },
   {
     "title": "احیائے صوفیہ",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_06.webp",
+    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_6.webp",
     "pageNumber": "06"
   },
   {
     "title": "قارئین کے لیے لمحہ فکریہ",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_07.webp",
+    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_7.webp",
     "pageNumber": "07"
   },
   {
     "title": "",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_08.webp",
+    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_8.webp",
     "pageNumber": "08"
   },
   {
     "title": "سب سے بڑا ہتھیار",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_09.webp",
+    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_9.webp",
     "pageNumber": "09"
   },
   {
@@ -99,13 +94,8 @@
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_18.webp",
     "pageNumber": "18"
   },
-  {
+    {
     "title": "!حقیقت یوں ہے",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_18.webp",
-    "pageNumber": "18"
-  },
-  {
-    "title": "",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_19.webp",
     "pageNumber": "19"
   },
@@ -124,26 +114,18 @@
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_23.webp",
     "pageNumber": "23"
   },
-  {
-    "title": "نیک انجام",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_23.webp",
-    "pageNumber": "23"
-  },
+ 
   {
     "title": "ملحقہ دعا",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_24.webp",
     "pageNumber": "24"
   },
   {
-    "title": "بیت الحلاؑ کے آداب",
+    "title": "بیت الحلاؑ کے آداب اور استنجاؑ کا مرحلہ",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_25.webp",
     "pageNumber": "25"
   },
-  {
-    "title": "استنجاؑ کا مرحلہ",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_25.webp",
-    "pageNumber": "25"
-  },
+
   {
     "title": "طہارت کا بیان",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_26.webp",
@@ -151,11 +133,6 @@
   },
   {
     "title": "وضو کے واجب احکام",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_26.webp",
-    "pageNumber": "26"
-  },
-  {
-    "title": "",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_27.webp",
     "pageNumber": "27"
   },
@@ -171,7 +148,7 @@
   },
   {
     "title": "(غسل کے واجبات)طہارت کبریٰ",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_30.webp",
+    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_30.png",
     "pageNumber": "30"
   },
   {
@@ -250,7 +227,7 @@
     "pageNumber": "44"
   },
   {
-    "title": "اذآن",
+    "title": "اذان",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_45.webp",
     "pageNumber": "45"
   },
@@ -260,7 +237,7 @@
     "pageNumber": "46"
   },
   {
-    "title": "اذآن سے پہلے",
+    "title": "اذان سے پہلے",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_47.webp",
     "pageNumber": "47"
   },
@@ -275,16 +252,11 @@
     "pageNumber": "49"
   },
   {
-    "title": "دعائے اذآن",
+    "title": "دعائے اذان اور اقامت",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_50.webp",
     "pageNumber": "50"
   },
-  {
-    "title": "اقامت",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_50.webp",
-    "pageNumber": "50"
-  },
-  {
+    {
     "title": "اقامت کی ہیئت وجودی",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_51.webp",
     "pageNumber": "51"
@@ -295,15 +267,11 @@
     "pageNumber": "52"
   },
   {
-    "title": "نماز پڑھئے",
+    "title": " نماز پڑھئے  ۔۔نماز صبح",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_53.webp",
     "pageNumber": "53"
   },
-  {
-    "title": "نماز صبح",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_53.webp",
-    "pageNumber": "53"
-  },
+
   {
     "title": "نماز ظہر",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_54.webp",
@@ -315,15 +283,11 @@
     "pageNumber": "55"
   },
   {
-    "title": "نماز مغرب",
+    "title": "نماز مغرب اور نماز عشا",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_56.webp",
     "pageNumber": "56"
   },
-  {
-    "title": "نماز عشا",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_56.webp",
-    "pageNumber": "56"
-  },
+ 
   {
     "title": "نماز وتر",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_57.webp",
@@ -340,10 +304,7 @@
     "pageNumber": "59"
   },
   {
-    "title": "قنوت جمعہ",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_60.webp",
-    "pageNumber": "60"
-  },
+ 
   {
     "title": "قنوت جمعہ",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_60.webp",
@@ -424,11 +385,7 @@
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_75.webp",
     "pageNumber": "75"
   },
-  {
-    "title": "اوراد خمسہ",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_75.webp",
-    "pageNumber": "75"
-  },
+ 
   {
     "title": "",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_76.webp",
@@ -440,7 +397,7 @@
     "pageNumber": "77"
   },
   {
-    "title": "دعائے جمعہ",
+    "title": "دعائے جمعہ اوراد خمسہ",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_78.webp",
     "pageNumber": "78"
   },
@@ -605,15 +562,11 @@
     "pageNumber": "109"
   },
   {
-    "title": "عذاب قبر سے خلاصی",
+    "title": " عذاب قبر سے خلاصی  اور نماز ہدئہ رسولﷺ",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_110.webp",
     "pageNumber": "110"
   },
-  {
-    "title": "نماز ہدئہ رسولﷺ",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_110.webp",
-    "pageNumber": "110"
-  },
+ 
   {
     "title": "نماز ہدئہ آئمہ ھداہؑ",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_111.webp",
@@ -634,21 +587,13 @@
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_114.webp",
     "pageNumber": "114"
   },
+
   {
-    "title": "ظہر کا سجدہ شکر",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_114.webp",
-    "pageNumber": "114"
-  },
-  {
-    "title": "عصر،مغرب اور عشا کا سجدہ شکر",
+    "title": " ظہر،عصر،مغرب ، عشا اور وتر کا سجدہ شکر",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_115.webp",
     "pageNumber": "115"
   },
-  {
-    "title": "وتر کا سجدہ شکر",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_116.webp",
-    "pageNumber": "116"
-  },
+ 
   {
     "title": "نماز قیام الیل",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_116.webp",
@@ -684,11 +629,7 @@
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_122.webp",
     "pageNumber": "122"
   },
-  {
-    "title": "تہجد کا سجدہ شکر",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_122.webp",
-    "pageNumber": "122"
-  },
+ 
   {
     "title": "",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_123.webp",
@@ -779,13 +720,9 @@
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_140.webp",
     "pageNumber": "140"
   },
+
   {
-    "title": "پل صراط سے گزرنے کی دعا",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_141.webp",
-    "pageNumber": "141"
-  },
-  {
-    "title": "اوراد فتحیہ",
+    "title": "اوراد فتحیہ اور پل صراط سے گزرنے کی دع",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_141.webp",
     "pageNumber": "141"
   },
@@ -1000,16 +937,11 @@
     "pageNumber": "185"
   },
   {
-    "title": "کھانے کے بعد کی دعا",
+    "title": "کھانے کے بعد کی دعا اور طلب باران کی دعا",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_186.webp",
     "pageNumber": "186"
   },
-  {
-    "title": "طلب باران کی دعا",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_186.webp",
-    "pageNumber": "186"
-  },
-  {
+
     "title": "",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_187.webp",
     "pageNumber": "187"
@@ -1115,14 +1047,9 @@
     "pageNumber": "207"
   },
   {
-    "title": "انجام فاسق و منافق",
+    "title": " فاسق ، منافق اور بدعتی کا انجام",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_208.webp",
     "pageNumber": "208"
-  },
-  {
-    "title": "نماز اشراق",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_209.webp",
-    "pageNumber": "209"
   },
   {
     "title": "نماز اشراق",
@@ -1190,15 +1117,11 @@
     "pageNumber": "221"
   },
   {
-    "title": "پندرہویں رمضان کا مزید عمل",
+    "title": "پندرہویں اور اکیسویں رمضان کا مزید عمل",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_222.webp",
     "pageNumber": "222"
   },
-  {
-    "title": "اکیس رمضان کا مزید عمل",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_222.webp",
-    "pageNumber": "222"
-  },
+
   {
     "title": "جمعتہ الوداع  کا مزید عمل",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_223.webp",
@@ -1290,15 +1213,11 @@
     "pageNumber": "240"
   },
   {
-    "title": "",
+    "title": "رباعی امیر المومنین",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_241.webp",
     "pageNumber": "241"
   },
-  {
-    "title": "رباعی امیر المومنین",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_242.webp",
-    "pageNumber": "242"
-  },
+ 
   {
     "title": "نماز باجماعت",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_242.webp",
@@ -1669,11 +1588,7 @@
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_315.webp",
     "pageNumber": "315"
   },
-  {
-    "title": " ",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_316.webp",
-    "pageNumber": "316"
-  },
+
   {
     "title": " ",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_317.webp",
@@ -1840,29 +1755,24 @@
     "pageNumber": "349"
   },
   {
-    "title": "رمضان کی دعائیں",
+   "title": "پہلی رمضان کی دعا",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_350.webp",
     "pageNumber": "350"
   },
   {
-    "title": "پہلی رمضان کی دعا",
+     "title": "دوسری رمضان کی دعا",,
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_351.webp",
     "pageNumber": "351"
   },
   {
-    "title": "دوسری رمضان کی دعا",
+     "title": "تیسری رمضان کی دعا",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_352.webp",
     "pageNumber": "352"
   },
   {
-    "title": "تیسری رمضان کی دعا",
+    "title": "چوتھی اور پانچ رمضان کی دعا",
     "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_353.webp",
     "pageNumber": "353"
-  },
-  {
-    "title": "چوتھی اور پانچ رمضان کی دعا",
-    "url": "https://github.com/Useramebbb/islamic-book-assets/blob/main/page_354.webp",
-    "pageNumber": "354"
   },
   {
     "title": "چھ رمضان کی دعا",
